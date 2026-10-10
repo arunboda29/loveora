@@ -1,0 +1,13 @@
+{
+  "name": "loveora",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Loveora — a playful love and kindness community",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

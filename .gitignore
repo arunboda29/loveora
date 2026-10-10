@@ -1,0 +1,8 @@
+loveora-data.json
+loveora-data.json.tmp
+*.tmp
+.env
+.env.*
+!.env.example
+node_modules/
+.vercel/
